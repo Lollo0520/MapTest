@@ -120,4 +120,7 @@ public class MainActivity extends AppCompatActivity{
         }
         super.onStop();
     }
+
+    //feature1
+    //modified some feature1 code here
 }
