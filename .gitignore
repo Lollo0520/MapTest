@@ -11,3 +11,4 @@
 .externalNativeBuild
 *.jks
 *.txt
+*.rec
