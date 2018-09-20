@@ -128,4 +128,5 @@ public class MainActivity extends AppCompatActivity{
     //modified some feature2 code here
 
     //added tag v1.0.0
+    //add more code on master branch
 }
