@@ -121,6 +121,8 @@ public class MainActivity extends AppCompatActivity{
         super.onStop();
     }
 
+    //feature1
+
     //feature2 code
     //modified some feature2 code here
 }
