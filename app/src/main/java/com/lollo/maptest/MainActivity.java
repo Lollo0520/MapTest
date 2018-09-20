@@ -122,7 +122,6 @@ public class MainActivity extends AppCompatActivity{
     }
 
     //feature1
-    //modified some feature1 code here
 
     //feature2 code
     //modified some feature2 code here
