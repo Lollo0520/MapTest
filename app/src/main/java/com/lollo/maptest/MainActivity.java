@@ -145,4 +145,6 @@ public class MainActivity extends AppCompatActivity{
 
     //modified some code on master branch
 
+    //made a terrible mistake on feature02 branch
+
 }
