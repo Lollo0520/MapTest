@@ -131,4 +131,5 @@ public class MainActivity extends AppCompatActivity{
     //add more code on master branch
 
     //create dev2 branch
+    //add some more code on dev2 branch
 }
