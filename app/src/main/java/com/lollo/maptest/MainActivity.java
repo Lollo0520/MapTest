@@ -147,4 +147,7 @@ public class MainActivity extends AppCompatActivity{
 
     //made a terrible mistake on feature02 branch
 
+    //made a commit
+    //made an amend then
+
 }
